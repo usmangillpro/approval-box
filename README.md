@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<b>This is a simple and basic app, in which an approval is set to either accept or reject the user comment on a post.. </b>
 
 ## Available Scripts
 
